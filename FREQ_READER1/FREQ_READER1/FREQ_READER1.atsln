@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "FREQ_READER1", "FREQ_READER1\FREQ_READER1.cproj", "{E764E35E-70A4-40F3-8D29-13C28B6E76C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E764E35E-70A4-40F3-8D29-13C28B6E76C8}.Debug|AVR.ActiveCfg = Debug|AVR
+		{E764E35E-70A4-40F3-8D29-13C28B6E76C8}.Debug|AVR.Build.0 = Debug|AVR
+		{E764E35E-70A4-40F3-8D29-13C28B6E76C8}.Release|AVR.ActiveCfg = Release|AVR
+		{E764E35E-70A4-40F3-8D29-13C28B6E76C8}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
